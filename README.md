@@ -1,5 +1,3 @@
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImS3an)](https://github.com/anuraghazra/github-readme-stats)
-
 Hi there 👋
 🔭 I’m currently working on discord.js and node.js
 
@@ -16,3 +14,6 @@ Hi there 👋
 😄 Pronouns: DONT ASK
 
 ⚡ Fun fact: roblox
+
+
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImS3an&show_icons=true&theme=radical)
